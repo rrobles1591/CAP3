@@ -1,0 +1,6 @@
+Things that it still needs: 
+
+The admin page should only be seen by admin
+needs login/registration 
+needs a way to delete requested appointments
+checkboxes should be done with useState 
